@@ -4,4 +4,6 @@ db.json
 debug.log
 node_modules/
 public/
+log/
+_config.yml
 .deploy/
