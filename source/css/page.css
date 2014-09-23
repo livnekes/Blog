@@ -1,3 +1,6 @@
-.article-date {
+.article-meta {
     visibility: hidden;
+}
+#page-undefined {
+    margin: 22px 0;
 }

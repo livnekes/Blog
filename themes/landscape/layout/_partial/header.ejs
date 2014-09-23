@@ -18,6 +18,8 @@
           <a class="main-nav-link" href="<%- url_for(theme.menu[i]) %>"><%= i %></a>
         <% } %>
       </nav>
+
+      <% if (false){ %>
       <nav id="sub-nav">
         <% if (theme.rss){ %>
           <a id="nav-rss-link" class="nav-icon" href="<%- theme.rss %>" title="RSS Feed"></a>
@@ -27,6 +29,7 @@
       <div id="search-form-wrap">
         <%- search_form({button: '&#xF002;'}) %>
       </div>
+      <% } %>
     </div>
   </div>
 </header>
