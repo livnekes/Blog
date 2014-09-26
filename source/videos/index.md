@@ -2,12 +2,10 @@ title: My Favorite Videos
 date: 2014-09-19 10:36:37
 ---
 
-* Sugata Mitra - "New Experiments In Self-Teaching"
-{% youtube dk60sYrU2RU %}
-<br/>
-
 * Sugata Mitra - "Build a School in the Cloud"
-{% youtube y3jYVe1RGaU %}
+<div class="video-container">
+{% iframe https://embed-ssl.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud.html %}
+</div>
 <br/>
 
 * Sugata Mitra - "Kids Can Teach Themselves"
@@ -16,8 +14,20 @@ date: 2014-09-19 10:36:37
 </div>
 <br/>
 
+* Sugata Mitra - "The Child-Driven Education"
+<div class="video-container">
+{% iframe https://embed-ssl.ted.com/talks/sugata_mitra_the_child_driven_education.html %}
+</div>
+<br/>
+
+* Sugata Mitra - "New Experiments In Self-Teaching"
+{% youtube dk60sYrU2RU %}
+<br/>
+
 * Shawn Achor - "The Happiness Advantage: Linking Positive Brains to Performance"
-{% youtube GXy__kBVq1M %}
+<div class="video-container">
+{% iframe https://embed-ssl.ted.com/talks/shawn_achor_the_happy_secret_to_better_work.html %}
+</div>
 <br/>
 
 * Dean Kamen - "On Inventing And Giving"
@@ -83,3 +93,50 @@ date: 2014-09-19 10:36:37
 {% iframe https://embed-ssl.ted.com/talks/tony_robbins_asks_why_we_do_what_we_do.html %}
 </div>
 <br/>
+
+* Gever Tulley - "5 Dangerous Things You Should Let Your Kids Do"
+<div class="video-container">
+{% iframe https://embed-ssl.ted.com/talks/gever_tulley_on_5_dangerous_things_for_kids.html %}
+</div>
+<br/>
+
+* Richard St. John - "8 Secrets Of Success"
+<div class="video-container">
+{% iframe https://embed-ssl.ted.com/talks/richard_st_john_s_8_secrets_of_success.html %}
+</div>
+<br/>
+
+* Seth Godin - "This Is Broken"
+{% youtube nZiDS-4Xd2k %}
+<br/>
+
+* Seth Godin - "The Tribes We Lead"
+<div class="video-container">
+{% iframe https://embed-ssl.ted.com/talks/seth_godin_on_the_tribes_we_lead.html %}
+</div>
+<br/>
+
+* Philip Zimbardo - "The Psychology Of Evil"
+<div class="video-container">
+{% iframe https://embed-ssl.ted.com/talks/philip_zimbardo_on_the_psychology_of_evil.html %}
+</div>
+<br/>
+
+* Dan Ariely - "Are We In Control Of Our Own Decisions?"
+<div class="video-container">
+{% iframe https://embed-ssl.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions.html %}
+</div>
+<br/>
+
+* Dan Ariely - "What Makes Us Feel Good About Our Work?"
+<div class="video-container">
+{% iframe https://embed-ssl.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work.html %}
+</div>
+<br/>
+
+* Dave Eggers - "Once Upon a School"
+<div class="video-container">
+{% iframe https://embed-ssl.ted.com/talks/dave_eggers_makes_his_ted_prize_wish_once_upon_a_school.html %}
+</div>
+<br/>
+
