@@ -116,6 +116,12 @@ date: 2014-09-19 10:36:37
 </div>
 <br/>
 
+* Bunker Roy - "Learning from a barefoot movement"
+<div class="video-container">
+{% iframe https://embed-ssl.ted.com/talks/bunker_roy.html %}
+</div>
+<br/>
+
 * Philip Zimbardo - "The Psychology Of Evil"
 <div class="video-container">
 {% iframe https://embed-ssl.ted.com/talks/philip_zimbardo_on_the_psychology_of_evil.html %}
@@ -140,3 +146,14 @@ date: 2014-09-19 10:36:37
 </div>
 <br/>
 
+* Tal Ben Shahar - "Positive Psychology"
+{% youtube IwUecXRvnS0 %}
+<br/>
+
+* Michael Sandel - "Justice"
+{% youtube kBdfcR-8hEY %}
+<br/>
+
+* Randy Pausch - "Last Lecture: Achieving Your Childhood Dreams"
+{% youtube ji5_MqicxSo %}
+<br/>
